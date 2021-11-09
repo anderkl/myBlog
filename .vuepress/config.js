@@ -70,16 +70,16 @@ module.exports = {
             }
         },
         "friendLink": [{
-                "title": "午后南杂",
-                "desc": "Enjoy when you can, and endure when you must.",
-                "email": "1156743527@qq.com",
-                "link": "https://www.recoluan.com"
+                "title": "github",
+                "desc": "这是我的github开源网址",
+                "email": "1512964764@qq.com",
+                "link": "https://github.com/anderkl?tab=repositories"
             },
             {
-                "title": "Wupq 前端学习博客",
-                "desc": "一心想学好前端的程序猿",
-                "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-                "link": "https://vuepress-theme-reco.recoluan.com"
+                "title": "gitee",
+                "desc": "这是我的gitee开源网址",
+                "email": "1512964764@qq.com",
+                "link": "https://gitee.com/bjh0201/dashboard/projects"
             }
         ],
         "logo": "/logo.png",
