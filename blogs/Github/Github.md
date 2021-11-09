@@ -27,19 +27,19 @@ GitHub是一个面向开源及私有软件项目的托管平台，因为只支�
 
 进入网址 [https://github.com.ipaddress.com](https://github.com.ipaddress.com/)
 
-![](https://github.com/anderkl/image-host/blob/master/image-20211108133927058.png?raw=true)
+![image-20211108133927058](C:\Users\15129\Desktop\myBlog\blogs\Github\img\image-20211108133927058.png)
 
 ### 第二步：查看 GitHub 的 域名 IP
 
 进入网址 [https://fastly.net.ipaddress.com/github.global.ssl.fastly.net](https://fastly.net.ipaddress.com/github.global.ssl.fastly.net)
 
-![](https://github.com/anderkl/image-host/blob/master/image-20211108134027411.png?raw=true)
+![image-20211108134027411](C:\Users\15129\Desktop\myBlog\blogs\Github\img\image-20211108134027411.png)
 
 ### 第三步: 查看 GitHub 的 静态资源 IP
 
 进入网址 [https://github.com.ipaddress.com/assets-cdn.github.com](https://github.com.ipaddress.com/assets-cdn.github.com)
 
-![](https://github.com/anderkl/image-host/blob/master/image-20211108134125425.png?raw=true)
+![image-20211108134125425](C:\Users\15129\Desktop\myBlog\blogs\Github\img\image-20211108134125425.png)
 
 ### 第四步: 修改 Hosts 配置文件
 
