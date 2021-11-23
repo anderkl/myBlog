@@ -215,6 +215,7 @@ module.exports = {
             repo: 'myBlog',
             clientId: '8c1c3a07bb4b1b90796d',
             clientSecret: 'db79529e4a3d07c5b8a93358829af2728e7b6efa',
+            autoCreateIssue: true
         },
     }
 
